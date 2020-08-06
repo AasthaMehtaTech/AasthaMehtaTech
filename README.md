@@ -50,8 +50,7 @@ Visit - [here](https://medium.com/@aasthamehta2704/first-blogger-blog-faqs-about
 <a href="https://www.quora.com/profile/Aastha-Mehta-11">
   <img align="left" alt="Aastha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
 </a><br>
--
+
 ### GIT Stats
--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaGithub&layout=compact&hide=html&theme=radical" alt="Aastha Mehta" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AasthaGithub&show_icons=true&theme=radical" alt="Aastha Mehta" /><br>
