@@ -32,7 +32,7 @@ Visit - [here](https://medium.com/@aasthamehta2704/first-blogger-blog-faqs-about
 
 **Will be happy to Connect Here:**
 
-<a href="www.linkedin.com/in/AasthaMehtaTech">
+<a href="https://linkedin.com/in/AasthaMehtaTech">
   <img align="left" alt="Aastha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/AasthaGithub">
