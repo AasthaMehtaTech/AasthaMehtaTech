@@ -28,7 +28,7 @@ Glad to see you here! 🤩
 ⛏️: **Side Projects**: Many in parallel, to upskill myself.<br>
 🏆: **I'm Very Proud Of**: Learning new things every day.<br>
 
-Visit - [here](https://medium.com/@aasthamehta2704/first-blogger-blog-faqs-about-me-d4b54ca9268b) to know more about me.<br>
+Visit - [here](https://medium.com/@aasthatecho/first-blogger-blog-faqs-about-me-d4b54ca9268b) to know more about me.<br>
 
 **Will be happy to Connect Here:**
 
@@ -38,7 +38,7 @@ Visit - [here](https://medium.com/@aasthamehta2704/first-blogger-blog-faqs-about
 <a href="https://github.com/AasthaGithub">
   <img align="left" alt="Aastha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://medium.com/@aasthamehta2704/">
+<a href="https://medium.com/@aasthatecho/">
 <img align="left" alt="Aastha's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://t.me/AasthaMe">
