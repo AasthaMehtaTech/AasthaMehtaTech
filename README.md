@@ -1,41 +1,25 @@
-### Hi there 👋
 
-<!--
-**AasthaGithub/AasthaGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Hi Dear Stranger✨_  <br><br>
+Aastha here, Welcome to my Git_Abode! 🏠<br>
+Here I love to occasionally post my projects OR just use it as a free file storage system :) <br>
+<hr>
 
-Here are some ideas to get you started:
+Learn more 💬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Name](https://github.com/Name.gif)
--->
+**Currently**: Senior Software Engineer @LTI | 🏠: Mumbai, India <br> <br>
+**Previously**: Machine Learning Intern @CloudCounselage <br> Mentor Open Source @Girlscript's Uplift @PSoC @WooTech <br> 2020 B.E. EXTC<br><br>
+**Tech Stack**: Java, Python (& everything as per the need of hour) <br> SpringBoot, Microservices, MERN, SOAP / REST, SQL <br><br>
 
-Glad to see you here! 🤩  
+I :heart: spending my spare time binge-watching, reading, or penning my thoughts <br><br>
 
-📑: **Intro**:`I am Aastha P. Mehta,a Technophile, Artistic (in my own ways😉) & a Jugaadi person (Who gets things done in unique ways which seem impossible otherwise to attain in short frame of time) with an ability to relate to almost any topic in the world🏁🌞✨ or at least willing to explore them all.`<br>
-🏠: **From**: Mumbai, India.  <br>
-👩: **Edu & More**: 2020 B.E. EXTC Graduate, Machine Learning Intern At CloudCounselage, Mentor at Open Source Projects of Girlscript's Uplift team & PSoC.<br>
-⚔️: **I Use**: I use Python, Java & everything as per the need of hour.<br>
-📖: **I'm Learning**: More Front-end & Data Structure and Algorithm skills.<br>
-✨: **Exploring Interests**: AI, Cloud Computing! <br>
-⛰️: **Passionate About**: When not programming, I spend my time binge-watching, reading, and writing 🎬🎭🎮🎧🎨🎲.<br>
-⛏️: **Side Projects**: Many in parallel, to upskill myself.<br>
-🏆: **I'm Very Proud Of**: Learning new things every day.<br>
-
-Visit - [here](https://medium.com/@aasthatecho/first-blogger-blog-faqs-about-me-d4b54ca9268b) to know more about me.<br>
+Visit - [here](https://medium.com/@aasthatecho/first-blogger-blog-faqs-about-me-d4b54ca9268b) to know more about [mini-me]().<br>
 
 **Will be happy to Connect Here:**
 
 <a href="https://linkedin.com/in/AasthaMehtaTech">
   <img align="left" alt="Aastha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AasthaGithub">
+<a href="https://github.com/AasthaTechO">
   <img align="left" alt="Aastha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://medium.com/@aasthatecho/">
@@ -52,5 +36,5 @@ Visit - [here](https://medium.com/@aasthatecho/first-blogger-blog-faqs-about-me-
 </a><br>
 
 ### GIT Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaGithub&layout=compact&hide=html&theme=radical" alt="Aastha Mehta" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AasthaGithub&show_icons=true&theme=radical" alt="Aastha Mehta" /><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaTechO&layout=compact&hide=html&theme=radical" alt="Aastha Mehta" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AasthaTechO&show_icons=true&theme=radical" alt="Aastha Mehta" /><br>
