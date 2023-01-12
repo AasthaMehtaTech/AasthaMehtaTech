@@ -53,5 +53,7 @@ Visit - [here](https://medium.com/@aasthatecho/first-blogger-blog-faqs-about-me-
 </a><br>
 
 ### GIT Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaMehtaTech&layout=compact&hide=html&theme=radical" alt="Aastha Mehta" />
+![aastha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aasthamehtatech&show_icons=true)
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaMehtaTech&layout=compact&hide=html&theme=radical" alt="Aastha Mehta" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AasthaMehtaTech&show_icons=true&theme=radical" alt="Aastha Mehta" /><br>
+-->
