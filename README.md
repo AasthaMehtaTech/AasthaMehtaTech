@@ -17,9 +17,12 @@ Learn more 💬
 <br>
 
 _Current Explorations :_ <br><br>
+Observability: Logging, Tracing & Monitoring - OpenTelemetry, ElasticSearch, FluentBit, Kibana, <br>
+Prometheus, Grafana, CloudWatch Alarms, Jaegar, Lambda Layers, Pkg <br>
+Docker, Kubernetes, Terraform, Helm <br>
 Go / Python / Javascript, GraphQL, Typescript, Nodejs, Reactjs <br> 
-AWS - Networking (VPC), Storages (S3, EBS), Compute (EC2), Serverless (lambda), <br>
-Build CodePipeline, CloudFormation, Redshift, Step functions <br>
+AWS - Networking (VPC), Storages (S3, EBS), Compute (EC2), Serverless (lambda), Telemetry extensions <br>
+Build: CodePipeline, CloudFormation, Redshift, Step functions <br>
 Data stores - Postgres, Dynamodb, Redshift, Snowflake <br>
 
 _Previously Encountered :_ <br><br>
